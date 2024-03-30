@@ -18,7 +18,7 @@ To use the microprogrammed computer design, follow these steps:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/microprogrammed-computer.git
+git clone https://github.com/zarkhodamoradi/Micropragrammed-computer-Moris-Mano-.git
 Open the project in Logisim:
 
 Launch Logisim.
