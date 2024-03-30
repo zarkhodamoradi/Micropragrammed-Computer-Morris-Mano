@@ -1,6 +1,9 @@
 Microprogrammed Computer Design in Logisim
+
 Overview
-This project is a microprogrammed computer designed in Logisim, based on the principles outlined in Morris Mano's book [insert book title]. The microprogrammed computer serves as a basic educational tool for understanding computer architecture and microprogramming concepts.
+
+This project is a microprogrammed computer designed in Logisim, based on the principles outlined in Morris Mano's book .
+The microprogrammed computer serves as a basic educational tool for understanding computer architecture and microprogramming concepts.
 
 Features
 Microprogrammed Control Unit: Utilizes microinstructions to control the execution of instructions.
@@ -30,4 +33,4 @@ Run the simulation to observe the execution of the program.
 Analyze the output and behavior of the microprogrammed computer.
 
 Acknowledgements
-Morris Mano: The design of this microprogrammed computer is based on principles outlined in Morris Mano's book [insert book title]. His work has been instrumental in understanding computer architecture concepts.
+Morris Mano: The design of this microprogrammed computer is based on principles outlined in Morris Mano's book \. His work has been instrumental in understanding computer architecture concepts.
