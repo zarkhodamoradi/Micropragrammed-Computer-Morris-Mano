@@ -6,13 +6,21 @@ This project is a microprogrammed computer designed in Logisim, based on the pri
 The microprogrammed computer serves as a basic educational tool for understanding computer architecture and microprogramming concepts.
 
 Features
+
 Microprogrammed Control Unit: Utilizes microinstructions to control the execution of instructions.
+
 Instruction Set Architecture (ISA): Implements a simplified instruction set for basic computing tasks.
+
 Register File: Includes a set of registers for storing data and addresses.
+
 ALU (Arithmetic Logic Unit): Performs arithmetic and logical operations on data.
+
 Memory Unit: Stores both instructions and data for program execution.
+
 Input/Output Modules: Allows interaction with external devices.
+
 Clocking Mechanism: Synchronizes the operations of various components.
+
 Installation
 To use the microprogrammed computer design, follow these steps:
 
